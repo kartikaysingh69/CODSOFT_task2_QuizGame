@@ -43,7 +43,7 @@ This project is licensed under the [MIT License](LICENSE), allowing you to freel
 
 If you have any questions, suggestions, or feedback, you can contact the project owner at kartikaysingh929@gmail.com.
 
-Get ready to test your knowledge and have fun with the Quiz Game!
+**Get ready to test your knowledge and have fun with the Quiz Game!**
 
 
 
