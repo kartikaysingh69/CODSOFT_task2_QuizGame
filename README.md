@@ -13,7 +13,7 @@ Welcome to the Quiz Game GitHub repository! This repository contains a Python pr
 
 1. Clone the repository to your local machine using the following command:
 
- * git clone https://github.com/your-username/quiz-game.git
+ * git clone https://github.com/kartikaysingh69/CODSOFT_task2_QuizGame.git
 
 
 2. Navigate to the repository's directory:
@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE), allowing you to freel
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, you can contact the project owner at your@email.com.
+If you have any questions, suggestions, or feedback, you can contact the project owner at kartikaysingh929@gmail.com.
 
 Get ready to test your knowledge and have fun with the Quiz Game!
 
